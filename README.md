@@ -32,8 +32,5 @@ We nodigen iedereen uit om bij te dragen aan dit project. U kunt op de volgende 
 - Documentatie schrijven: Help met het documenteren van de code en experimenten.
 - Feedback geven: Laat ons weten wat u van het project vindt en hoe we het kunnen verbeteren.
 
-## Licentie
-Dit project is gelicentieerd onder de MIT-licentie.
-
 ## Contact
 Voor vragen of feedback kunt u contact met ons opnemen via de pollenonderzoek.nl
