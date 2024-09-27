@@ -1,6 +1,6 @@
 # pollenCV: Herkenning van Stuifmeelpollen met hulp van Computer Vision
 
-Dit repository bevat experimenten om te onderzoeken hoe computer vision imkers kan helpen bij het determineren van stuifmeelpollen. Het project is nog in ontwikkeling en begint met het gebruik van Teachable Machine en online beschikbare trainings en testsets van pollen.
+Dit repository bevat experimenten om te onderzoeken hoe computer vision imkers kan helpen bij het determineren van stuifmeelpollen. 
 
 ## Doel
 Het doel van dit project is om een computer vision-model te ontwikkelen dat verschillende soorten stuifmeelpollen kan herkennen. Dit helpt bij het beoordelen van honing.
