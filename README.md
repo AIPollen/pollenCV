@@ -1,3 +1,6 @@
+
+This project is no longer actively maintained. Development has ceased as of [09 November 2025].
+
 # pollenCV: Herkenning van Stuifmeelpollen met hulp van Computer Vision
 
 Dit repository bevat experimenten om te onderzoeken hoe computer vision imkers kan helpen bij het determineren van stuifmeelpollen. 
